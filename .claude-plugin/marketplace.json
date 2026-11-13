@@ -1,0 +1,8 @@
+{
+  "name": "talk-deck",
+  "description": "Build animated, story-driven talks as static web decks with an agent.",
+  "owner": { "name": "Moiz Imran", "url": "https://github.com/moiz-imran" },
+  "plugins": [
+    { "name": "talk-deck", "source": "./", "description": "Design and build an animated, story-driven talk as a static web deck, with stepped motion, a presenter view, speaker notes and cues." }
+  ]
+}

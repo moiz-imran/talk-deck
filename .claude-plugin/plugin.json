@@ -1,0 +1,10 @@
+{
+  "name": "talk-deck",
+  "description": "Design and build an animated, story-driven talk as a static web deck, with stepped motion, a presenter view, speaker notes and cues.",
+  "version": "1.0.0",
+  "author": { "name": "Moiz Imran", "url": "https://github.com/moiz-imran" },
+  "license": "MIT",
+  "homepage": "https://github.com/moiz-imran/talk-deck",
+  "repository": "https://github.com/moiz-imran/talk-deck",
+  "keywords": ["presentation", "talk", "slides", "animation", "skill"]
+}
